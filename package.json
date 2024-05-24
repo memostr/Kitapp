@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.6.1",
+    "axios": "^0.27.2",
+    "firebase": "^10.12.1",
+    "formik": "^2.2.9",
+    "next": "^12.1.5",
+    "next-images": "^1.8.5",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-toastify": "^8.2.0",
+    "squoosh": "^0.0.0",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "sass": "^1.50.1"
+  }
+}
